@@ -1,3 +1,3 @@
-nombre = "David"
+nombre = "Lucas"
 
 print(nombre + nombre + "rama mala")
